@@ -1,9 +1,8 @@
-numpy>=1.21.0,<2
-onnx>=1.12.0,<2
-onnxruntime>=1.12.0,<2
-keras
-tensorflow>=2.10,<2.13
-tf2onnx==1.9.3
-torch>=1.11.0,<3
+numpy>=1.21.6,<2
+tensorflow>=2.9,<2.10
+tf2onnx>=1.13,<1.15
+onnx>=1.12,<1.15
+onnxruntime>=1.12,<1.15
+torch>=1.11,<2
 matplotlib
 scikit-image
