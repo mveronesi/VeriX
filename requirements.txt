@@ -1,7 +1,7 @@
 numpy>=1.21.0,<2
 onnx>=1.12.0,<2
 onnxruntime>=1.12.0,<2
-keras==2.9.0
+keras
 tensorflow>=2.10,<2.13
 tf2onnx==1.9.3
 torch>=1.11.0,<3
